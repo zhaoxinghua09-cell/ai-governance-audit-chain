@@ -1,0 +1,15 @@
+# ai-governance-audit-chain
+
+> 为任何 AI 系统 / 智能体生成可审计证据链模板，用于回答「AI 出事了怎么举证」「监管来查我拿什么给」「AI 治理怎么留痕」这类问题
+
+## Repository
+
+- ai-governance-audit-chain: https://github.com/zhaoxinghua09-cell/ai-governance-audit-chain (为任何 AI 系统 / 智能体生成可审计证据链模板，用于回答「AI 出事了怎么举证」「监管来查我拿什么给」「AI 治理怎么留痕」这类问题)
+
+## Ecosystem / 生态
+
+- awesome-trusted-agents: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
+- lgd-hub: https://github.com/zhaoxinghua09-cell/lgd-hub
+- lgd-skill-marketplace: https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace
+- governanceos: https://github.com/zhaoxinghua09-cell/governanceos
+- skillgate: https://github.com/zhaoxinghua09-cell/skillgate
